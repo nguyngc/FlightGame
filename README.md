@@ -9,7 +9,7 @@ In addition, the missions will be classified by difficulty level according to th
 ### Database
 This game uses the airport and country table from the database course.
 
-1. Create a new database 'flightgame':  
+1. Create a new database 'flightgame_v2':  
 `CREATE DATABASE flightgame_v2`;
 2. Switch to that database:  
 `USE flightgame_v2`;
